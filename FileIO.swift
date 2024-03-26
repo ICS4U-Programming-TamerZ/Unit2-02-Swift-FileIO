@@ -67,6 +67,5 @@ func processInputFile() {
         print("An error occurred: \(error)")
     }
 }
-
 // Call the function to process input file
 processInputFile()
